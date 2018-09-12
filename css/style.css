@@ -1,0 +1,59 @@
+.header{
+	border: 2px solid gray;
+	background-color: gray;
+	/*min-height: 100px;*/
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+
+.logo{
+	border: 1px solid black;
+	min-height: 80px;
+	width: 40%;
+	margin: 8px;
+	float: right;
+}
+
+.navigation{
+	border: 1px solid black;
+	min-height: 80px;
+	width: 20%;
+	margin: 8px;
+	/*float: right;*/
+}
+
+.banner{
+	border: 2px solid gray;
+	background-color: gray;
+	min-height: 150px;
+	margin-bottom: 5px;
+}
+
+.intro{
+	border: 2px solid gray ;
+	background-color: gray;
+	min-height: 140px;
+	margin-bottom: 5px;
+}
+
+.boxes{
+	/*border: 2px solid gray;*/
+	/*min-height: 400px;*/
+	overflow: hidden;
+
+}
+
+.box{
+	min-height: 450px;
+	background-color: gray;
+	float: left;
+	width: 25%;
+	margin: 5px 53px;
+	padding: 5px;
+}
+
+.footer{
+	border: 2px solid gray;
+	background-color: gray;
+	min-height: 100px;
+}
